@@ -15,6 +15,36 @@
 		FFE1740121B56CDB00E66777 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFE173FF21B56CDB00E66777 /* LaunchScreen.storyboard */; };
 		FFE1740C21B56CDB00E66777 /* photo_map_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE1740B21B56CDB00E66777 /* photo_map_swiftTests.swift */; };
 		FFE1741721B56CDB00E66777 /* photo_map_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE1741621B56CDB00E66777 /* photo_map_swiftUITests.swift */; };
+		FFE1744421B692C800E66777 /* FSInteractiveMapView.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1742A21B692C800E66777 /* FSInteractiveMapView.m */; };
+		FFE1744521B692C800E66777 /* FSSVGPathElement.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1742F21B692C800E66777 /* FSSVGPathElement.m */; };
+		FFE1744621B692C800E66777 /* FSSVG.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1743021B692C800E66777 /* FSSVG.m */; };
+		FFE1744721B692C800E66777 /* FSSVGUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1743121B692C800E66777 /* FSSVGUtils.m */; };
+		FFE1744821B692C800E66777 /* map_ungroup.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743321B692C800E66777 /* map_ungroup.svg */; };
+		FFE1744921B692C800E66777 /* uk-low.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743421B692C800E66777 /* uk-low.svg */; };
+		FFE1744A21B692C800E66777 /* beef-cuts.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743521B692C800E66777 /* beef-cuts.svg */; };
+		FFE1744B21B692C800E66777 /* india-low.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743621B692C800E66777 /* india-low.svg */; };
+		FFE1744C21B692C800E66777 /* europe.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743721B692C800E66777 /* europe.svg */; };
+		FFE1744D21B692C800E66777 /* map.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743821B692C800E66777 /* map.svg */; };
+		FFE1744E21B692C800E66777 /* map_nop.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743921B692C800E66777 /* map_nop.svg */; };
+		FFE1744F21B692C800E66777 /* map_3.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743A21B692C800E66777 /* map_3.svg */; };
+		FFE1745021B692C800E66777 /* usa-low.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743B21B692C800E66777 /* usa-low.svg */; };
+		FFE1745121B692C800E66777 /* france-low.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743C21B692C800E66777 /* france-low.svg */; };
+		FFE1745221B692C800E66777 /* austria-low.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743D21B692C800E66777 /* austria-low.svg */; };
+		FFE1745321B692C800E66777 /* map_save.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743E21B692C800E66777 /* map_save.svg */; };
+		FFE1745421B692C800E66777 /* italy.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1743F21B692C800E66777 /* italy.svg */; };
+		FFE1745521B692C800E66777 /* world-continents-low.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1744021B692C800E66777 /* world-continents-low.svg */; };
+		FFE1745621B692C800E66777 /* china-low.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1744121B692C800E66777 /* china-low.svg */; };
+		FFE1745721B692C800E66777 /* germany.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1744221B692C800E66777 /* germany.svg */; };
+		FFE1745821B692C800E66777 /* world-low.svg in Resources */ = {isa = PBXBuildFile; fileRef = FFE1744321B692C800E66777 /* world-low.svg */; };
+		FFE1746321B6933D00E66777 /* TOActivityCroppedImageProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1745B21B6933D00E66777 /* TOActivityCroppedImageProvider.m */; };
+		FFE1746421B6933D00E66777 /* UIImage+CropRotate.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1745C21B6933D00E66777 /* UIImage+CropRotate.m */; };
+		FFE1746521B6933D00E66777 /* TOCropViewControllerTransitioning.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1745D21B6933D00E66777 /* TOCropViewControllerTransitioning.m */; };
+		FFE1746621B6933D00E66777 /* TOCroppedImageAttributes.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1745E21B6933D00E66777 /* TOCroppedImageAttributes.m */; };
+		FFE1747321B6935300E66777 /* TOCropScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1746B21B6935300E66777 /* TOCropScrollView.m */; };
+		FFE1747521B6935300E66777 /* TOCropView.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1746D21B6935300E66777 /* TOCropView.m */; };
+		FFE1747621B6935300E66777 /* TOCropOverlayView.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1746E21B6935300E66777 /* TOCropOverlayView.m */; };
+		FFE1747721B6935300E66777 /* TOCropToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1747021B6935300E66777 /* TOCropToolbar.m */; };
+		FFE1747B21B6945300E66777 /* TOCropViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFE1747921B6945300E66777 /* TOCropViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +79,51 @@
 		FFE1741221B56CDB00E66777 /* photo_map_swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = photo_map_swiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFE1741621B56CDB00E66777 /* photo_map_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = photo_map_swiftUITests.swift; sourceTree = "<group>"; };
 		FFE1741821B56CDB00E66777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFE1742921B692C800E66777 /* FSInteractiveMapView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSInteractiveMapView.h; sourceTree = "<group>"; };
+		FFE1742A21B692C800E66777 /* FSInteractiveMapView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSInteractiveMapView.m; sourceTree = "<group>"; };
+		FFE1742C21B692C800E66777 /* FSSVGPathElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSSVGPathElement.h; sourceTree = "<group>"; };
+		FFE1742D21B692C800E66777 /* FSSVG.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSSVG.h; sourceTree = "<group>"; };
+		FFE1742E21B692C800E66777 /* FSSVGUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSSVGUtils.h; sourceTree = "<group>"; };
+		FFE1742F21B692C800E66777 /* FSSVGPathElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSSVGPathElement.m; sourceTree = "<group>"; };
+		FFE1743021B692C800E66777 /* FSSVG.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSSVG.m; sourceTree = "<group>"; };
+		FFE1743121B692C800E66777 /* FSSVGUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSSVGUtils.m; sourceTree = "<group>"; };
+		FFE1743321B692C800E66777 /* map_ungroup.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = map_ungroup.svg; sourceTree = "<group>"; };
+		FFE1743421B692C800E66777 /* uk-low.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "uk-low.svg"; sourceTree = "<group>"; };
+		FFE1743521B692C800E66777 /* beef-cuts.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "beef-cuts.svg"; sourceTree = "<group>"; };
+		FFE1743621B692C800E66777 /* india-low.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "india-low.svg"; sourceTree = "<group>"; };
+		FFE1743721B692C800E66777 /* europe.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = europe.svg; sourceTree = "<group>"; };
+		FFE1743821B692C800E66777 /* map.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = map.svg; sourceTree = "<group>"; };
+		FFE1743921B692C800E66777 /* map_nop.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = map_nop.svg; sourceTree = "<group>"; };
+		FFE1743A21B692C800E66777 /* map_3.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = map_3.svg; sourceTree = "<group>"; };
+		FFE1743B21B692C800E66777 /* usa-low.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "usa-low.svg"; sourceTree = "<group>"; };
+		FFE1743C21B692C800E66777 /* france-low.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "france-low.svg"; sourceTree = "<group>"; };
+		FFE1743D21B692C800E66777 /* austria-low.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "austria-low.svg"; sourceTree = "<group>"; };
+		FFE1743E21B692C800E66777 /* map_save.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = map_save.svg; sourceTree = "<group>"; };
+		FFE1743F21B692C800E66777 /* italy.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = italy.svg; sourceTree = "<group>"; };
+		FFE1744021B692C800E66777 /* world-continents-low.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "world-continents-low.svg"; sourceTree = "<group>"; };
+		FFE1744121B692C800E66777 /* china-low.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "china-low.svg"; sourceTree = "<group>"; };
+		FFE1744221B692C800E66777 /* germany.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = germany.svg; sourceTree = "<group>"; };
+		FFE1744321B692C800E66777 /* world-low.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "world-low.svg"; sourceTree = "<group>"; };
+		FFE1745B21B6933D00E66777 /* TOActivityCroppedImageProvider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TOActivityCroppedImageProvider.m; sourceTree = "<group>"; };
+		FFE1745C21B6933D00E66777 /* UIImage+CropRotate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+CropRotate.m"; sourceTree = "<group>"; };
+		FFE1745D21B6933D00E66777 /* TOCropViewControllerTransitioning.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TOCropViewControllerTransitioning.m; sourceTree = "<group>"; };
+		FFE1745E21B6933D00E66777 /* TOCroppedImageAttributes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TOCroppedImageAttributes.m; sourceTree = "<group>"; };
+		FFE1745F21B6933D00E66777 /* TOActivityCroppedImageProvider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TOActivityCroppedImageProvider.h; sourceTree = "<group>"; };
+		FFE1746021B6933D00E66777 /* TOCropViewControllerTransitioning.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TOCropViewControllerTransitioning.h; sourceTree = "<group>"; };
+		FFE1746121B6933D00E66777 /* UIImage+CropRotate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+CropRotate.h"; sourceTree = "<group>"; };
+		FFE1746221B6933D00E66777 /* TOCroppedImageAttributes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TOCroppedImageAttributes.h; sourceTree = "<group>"; };
+		FFE1746821B6935300E66777 /* TOCropView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TOCropView.h; sourceTree = "<group>"; };
+		FFE1746921B6935300E66777 /* TOCropOverlayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TOCropOverlayView.h; sourceTree = "<group>"; };
+		FFE1746A21B6935300E66777 /* TOCropToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TOCropToolbar.h; sourceTree = "<group>"; };
+		FFE1746B21B6935300E66777 /* TOCropScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TOCropScrollView.m; sourceTree = "<group>"; };
+		FFE1746D21B6935300E66777 /* TOCropView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TOCropView.m; sourceTree = "<group>"; };
+		FFE1746E21B6935300E66777 /* TOCropOverlayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TOCropOverlayView.m; sourceTree = "<group>"; };
+		FFE1747021B6935300E66777 /* TOCropToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TOCropToolbar.m; sourceTree = "<group>"; };
+		FFE1747221B6935300E66777 /* TOCropScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TOCropScrollView.h; sourceTree = "<group>"; };
+		FFE1747821B6945300E66777 /* TOCropViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TOCropViewController.h; sourceTree = "<group>"; };
+		FFE1747921B6945300E66777 /* TOCropViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TOCropViewController.m; sourceTree = "<group>"; };
+		FFE1747A21B6945300E66777 /* TOCropViewController-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TOCropViewController-Bridging-Header.h"; sourceTree = "<group>"; };
+		FFE1747F21B69A5900E66777 /* photo_map_swift-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "photo_map_swift-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +154,8 @@
 		FFE173E721B56CD500E66777 = {
 			isa = PBXGroup;
 			children = (
+				FFE1745921B6932000E66777 /* TOCropViewController */,
+				FFE1742821B692C800E66777 /* FSInteractiveMap */,
 				FFE173F221B56CD500E66777 /* photo_map_swift */,
 				FFE1740A21B56CDB00E66777 /* photo_map_swiftTests */,
 				FFE1741521B56CDB00E66777 /* photo_map_swiftUITests */,
@@ -99,6 +176,7 @@
 		FFE173F221B56CD500E66777 /* photo_map_swift */ = {
 			isa = PBXGroup;
 			children = (
+				FFE1747F21B69A5900E66777 /* photo_map_swift-Bridging-Header.h */,
 				FFE173F321B56CD500E66777 /* AppDelegate.swift */,
 				FFE173F521B56CD500E66777 /* ViewController.swift */,
 				FFE173F721B56CD500E66777 /* Main.storyboard */,
@@ -127,6 +205,98 @@
 			);
 			path = photo_map_swiftUITests;
 			sourceTree = "<group>";
+		};
+		FFE1742821B692C800E66777 /* FSInteractiveMap */ = {
+			isa = PBXGroup;
+			children = (
+				FFE1742921B692C800E66777 /* FSInteractiveMapView.h */,
+				FFE1742A21B692C800E66777 /* FSInteractiveMapView.m */,
+				FFE1742B21B692C800E66777 /* FSSVG */,
+				FFE1743221B692C800E66777 /* Data */,
+			);
+			path = FSInteractiveMap;
+			sourceTree = "<group>";
+		};
+		FFE1742B21B692C800E66777 /* FSSVG */ = {
+			isa = PBXGroup;
+			children = (
+				FFE1742C21B692C800E66777 /* FSSVGPathElement.h */,
+				FFE1742D21B692C800E66777 /* FSSVG.h */,
+				FFE1742E21B692C800E66777 /* FSSVGUtils.h */,
+				FFE1742F21B692C800E66777 /* FSSVGPathElement.m */,
+				FFE1743021B692C800E66777 /* FSSVG.m */,
+				FFE1743121B692C800E66777 /* FSSVGUtils.m */,
+			);
+			path = FSSVG;
+			sourceTree = "<group>";
+		};
+		FFE1743221B692C800E66777 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				FFE1743321B692C800E66777 /* map_ungroup.svg */,
+				FFE1743421B692C800E66777 /* uk-low.svg */,
+				FFE1743521B692C800E66777 /* beef-cuts.svg */,
+				FFE1743621B692C800E66777 /* india-low.svg */,
+				FFE1743721B692C800E66777 /* europe.svg */,
+				FFE1743821B692C800E66777 /* map.svg */,
+				FFE1743921B692C800E66777 /* map_nop.svg */,
+				FFE1743A21B692C800E66777 /* map_3.svg */,
+				FFE1743B21B692C800E66777 /* usa-low.svg */,
+				FFE1743C21B692C800E66777 /* france-low.svg */,
+				FFE1743D21B692C800E66777 /* austria-low.svg */,
+				FFE1743E21B692C800E66777 /* map_save.svg */,
+				FFE1743F21B692C800E66777 /* italy.svg */,
+				FFE1744021B692C800E66777 /* world-continents-low.svg */,
+				FFE1744121B692C800E66777 /* china-low.svg */,
+				FFE1744221B692C800E66777 /* germany.svg */,
+				FFE1744321B692C800E66777 /* world-low.svg */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		FFE1745921B6932000E66777 /* TOCropViewController */ = {
+			isa = PBXGroup;
+			children = (
+				FFE1747A21B6945300E66777 /* TOCropViewController-Bridging-Header.h */,
+				FFE1747821B6945300E66777 /* TOCropViewController.h */,
+				FFE1747921B6945300E66777 /* TOCropViewController.m */,
+				FFE1746721B6935300E66777 /* Views */,
+				FFE1745A21B6933D00E66777 /* Models */,
+			);
+			path = TOCropViewController;
+			sourceTree = "<group>";
+		};
+		FFE1745A21B6933D00E66777 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FFE1745B21B6933D00E66777 /* TOActivityCroppedImageProvider.m */,
+				FFE1745C21B6933D00E66777 /* UIImage+CropRotate.m */,
+				FFE1745D21B6933D00E66777 /* TOCropViewControllerTransitioning.m */,
+				FFE1745E21B6933D00E66777 /* TOCroppedImageAttributes.m */,
+				FFE1745F21B6933D00E66777 /* TOActivityCroppedImageProvider.h */,
+				FFE1746021B6933D00E66777 /* TOCropViewControllerTransitioning.h */,
+				FFE1746121B6933D00E66777 /* UIImage+CropRotate.h */,
+				FFE1746221B6933D00E66777 /* TOCroppedImageAttributes.h */,
+			);
+			name = Models;
+			path = ../../photo_map/Models;
+			sourceTree = "<group>";
+		};
+		FFE1746721B6935300E66777 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FFE1746821B6935300E66777 /* TOCropView.h */,
+				FFE1746921B6935300E66777 /* TOCropOverlayView.h */,
+				FFE1746A21B6935300E66777 /* TOCropToolbar.h */,
+				FFE1746B21B6935300E66777 /* TOCropScrollView.m */,
+				FFE1746D21B6935300E66777 /* TOCropView.m */,
+				FFE1746E21B6935300E66777 /* TOCropOverlayView.m */,
+				FFE1747021B6935300E66777 /* TOCropToolbar.m */,
+				FFE1747221B6935300E66777 /* TOCropScrollView.h */,
+			);
+			name = Views;
+			path = TOCropViewController/Views;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -232,9 +402,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFE1744C21B692C800E66777 /* europe.svg in Resources */,
+				FFE1745221B692C800E66777 /* austria-low.svg in Resources */,
+				FFE1745821B692C800E66777 /* world-low.svg in Resources */,
+				FFE1744B21B692C800E66777 /* india-low.svg in Resources */,
 				FFE1740121B56CDB00E66777 /* LaunchScreen.storyboard in Resources */,
+				FFE1745321B692C800E66777 /* map_save.svg in Resources */,
+				FFE1745121B692C800E66777 /* france-low.svg in Resources */,
+				FFE1744E21B692C800E66777 /* map_nop.svg in Resources */,
+				FFE1744D21B692C800E66777 /* map.svg in Resources */,
+				FFE1744A21B692C800E66777 /* beef-cuts.svg in Resources */,
 				FFE173FE21B56CDB00E66777 /* Assets.xcassets in Resources */,
+				FFE1745421B692C800E66777 /* italy.svg in Resources */,
+				FFE1744821B692C800E66777 /* map_ungroup.svg in Resources */,
+				FFE1744F21B692C800E66777 /* map_3.svg in Resources */,
+				FFE1745621B692C800E66777 /* china-low.svg in Resources */,
+				FFE1745521B692C800E66777 /* world-continents-low.svg in Resources */,
+				FFE1745021B692C800E66777 /* usa-low.svg in Resources */,
 				FFE173F921B56CD500E66777 /* Main.storyboard in Resources */,
+				FFE1745721B692C800E66777 /* germany.svg in Resources */,
+				FFE1744921B692C800E66777 /* uk-low.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,9 +446,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFE1746421B6933D00E66777 /* UIImage+CropRotate.m in Sources */,
 				FFE173F621B56CD500E66777 /* ViewController.swift in Sources */,
+				FFE1747521B6935300E66777 /* TOCropView.m in Sources */,
+				FFE1747721B6935300E66777 /* TOCropToolbar.m in Sources */,
+				FFE1747321B6935300E66777 /* TOCropScrollView.m in Sources */,
+				FFE1744421B692C800E66777 /* FSInteractiveMapView.m in Sources */,
+				FFE1746521B6933D00E66777 /* TOCropViewControllerTransitioning.m in Sources */,
+				FFE1747B21B6945300E66777 /* TOCropViewController.m in Sources */,
 				FFE173F421B56CD500E66777 /* AppDelegate.swift in Sources */,
+				FFE1747621B6935300E66777 /* TOCropOverlayView.m in Sources */,
+				FFE1744621B692C800E66777 /* FSSVG.m in Sources */,
+				FFE1746621B6933D00E66777 /* TOCroppedImageAttributes.m in Sources */,
+				FFE1746321B6933D00E66777 /* TOActivityCroppedImageProvider.m in Sources */,
+				FFE1744721B692C800E66777 /* FSSVGUtils.m in Sources */,
 				FFE173FC21B56CD500E66777 /* photo_map_swift.xcdatamodeld in Sources */,
+				FFE1744521B692C800E66777 /* FSSVGPathElement.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,7 +643,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "--------.photo-map-swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_OBJC_BRIDGING_HEADER = "photo_map_swift/photo_map_swift-Bridging-Header.h";
+				SWIFT_OBJC_INTERFACE_HEADER_NAME = "photo_map_swift-Swift.h";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -461,7 +663,9 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "--------.photo-map-swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_OBJC_BRIDGING_HEADER = "photo_map_swift/photo_map_swift-Bridging-Header.h";
+				SWIFT_OBJC_INTERFACE_HEADER_NAME = "photo_map_swift-Swift.h";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
